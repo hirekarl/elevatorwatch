@@ -3,6 +3,8 @@
 ![Preview of ElevatorWatch demo](./preview.png)
 
 > ElevatorWatch is a resident-powered accountability tool designed to bridge the gap between building management claims and the lived reality of tenants in high-rise housing. By crowdsourcing elevator status and tracking maintenance excuses, the app builds an irrefutable record for housing advocacy.
+>
+> Built by [Karl Johnson](https://github.com/hirekarl) on <time datetime="2026-02-18">February 18, 2026</time> at [Pursuit HQ](https://www.pursuit.org/) in Long Island City, New York.
 
 ## ✨ Key Features
 - **Bilingual First**: Fully localized for Mexican Spanish, ensuring the app is accessible to the community it serves without the friction of "robotic" translation.
