@@ -2,7 +2,7 @@
 
 ![Preview of ElevatorWatch demo](./preview.png)
 
-ElevatorWatch is a resident-powered accountability tool designed to bridge the gap between building management claims and the lived reality of tenants. By crowdsourcing elevator status and tracking maintenance excuses, the app builds an irrefutable record for housing advocacy.
+ElevatorWatch is a resident-powered accountability tool designed to bridge the gap between building management claims and the lived reality of tenants. By crowdsourcing elevator status and tracking maintenance excuses, the app builds an irrefutable record for housing advocacy. [View the app demo on Netlify.](https://elevatorwatch.netlify.app/)
 
 ## ✨ Key Features
 
